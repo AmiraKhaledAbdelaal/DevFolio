@@ -1,0 +1,29 @@
+@media all and (max-width: 929px){
+    .home h1{
+        font-size: 72px;
+    }
+    .carousel{
+        height: auto;
+    }
+    .message{
+        height: auto;
+
+    }
+    
+}
+@media all and (max-width: 768px){
+    .home h1{
+        font-size: 48px;
+    }
+    .container{
+        width: 100%;
+    }
+    .number{
+        height: auto;
+    }
+    
+    .message{
+        height: auto;
+    }
+}
+
